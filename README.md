@@ -6,7 +6,7 @@ Author: Carolina Euan.
 e-mail: c.euancampos@lancaster.ac.uk
 
 ## Citation 
-Euán, C. and Sun, Y. (2020), Bernoulli Vector Autoregressive Model, Journal of Multivariate Analysis (in press).
+Euán, C. and Sun, Y. (2020), Bernoulli Vector Autoregressive Model, Journal of Multivariate Analysis, 177, 104599. https://doi.org/10.1016/j.jmva.2020.104599
 
 ## Remarks
 
